@@ -1,0 +1,36 @@
+# latex aux files
+#*.aux
+#*.bbl
+#*.blf
+#*.blg
+#*.log
+#*.out
+#*.spl
+#*.synctex.gz
+#*.pdf
+
+# osx specific files
+*.DS_Store
+
+# figures folder
+#figures_v*
+
+# temporary files
+*temp/
+
+#Files that are not myne to share
+fnGetWavelet.m
+formatWavelet.m
+runLoHi.m
+runLoHi.m
+runStereo.m
+saveClass.m
+saveProbImg.m
+saveResults.m
+shDefine.m
+showResults.m
+shRunMany.m
+shTestGGD.m
+test.m
+wallStreet.m
+vid2frame.m
